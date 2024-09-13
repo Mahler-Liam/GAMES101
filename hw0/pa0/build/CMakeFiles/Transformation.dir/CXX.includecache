@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/m1a0cx/learn/GAMES101/hw0/pa0/main.cpp
+cmath
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Dense
+-
+iostream
+-
+
