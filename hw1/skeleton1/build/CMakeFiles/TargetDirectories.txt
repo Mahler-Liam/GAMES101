@@ -1,0 +1,3 @@
+/home/arrakis/learn/Games101/hw1/skeleton1/build/CMakeFiles/Rasterizer.dir
+/home/arrakis/learn/Games101/hw1/skeleton1/build/CMakeFiles/edit_cache.dir
+/home/arrakis/learn/Games101/hw1/skeleton1/build/CMakeFiles/rebuild_cache.dir
