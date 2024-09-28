@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /home/m1a0cx/learn/GAMES101/hw0/pa0/build/CMakeFiles/rebuild_cache.dir
 /home/m1a0cx/learn/GAMES101/hw0/pa0/build/CMakeFiles/Transformation.dir
 /home/m1a0cx/learn/GAMES101/hw0/pa0/build/CMakeFiles/edit_cache.dir
+=======
+/home/arrakis/learn/Games101/hw0/pa0/build/CMakeFiles/Transformation.dir
+/home/arrakis/learn/Games101/hw0/pa0/build/CMakeFiles/edit_cache.dir
+/home/arrakis/learn/Games101/hw0/pa0/build/CMakeFiles/rebuild_cache.dir
+>>>>>>> fbfd5ce (Deal with the confliction of hw0)

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 /usr/bin/g++  -g  -rdynamic CMakeFiles/Transformation.dir/main.cpp.o  -o Transformation 
+=======
+/usr/bin/c++ -rdynamic CMakeFiles/Transformation.dir/main.cpp.o -o Transformation 
+>>>>>>> fbfd5ce (Deal with the confliction of hw0)
